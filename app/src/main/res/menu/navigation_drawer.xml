@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Shubham Pandey
+  ~ Copyright (c) 2020. All Rights Reserved.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_video"
+        android:title="Video Lectures" />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share"
+        android:title="Share This App"/>
+    <item
+        android:id="@+id/navigation_rate"
+        android:icon="@drawable/ic_review"
+        android:title="Rate us"/>
+</menu>
